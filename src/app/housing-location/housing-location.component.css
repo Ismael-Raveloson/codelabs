@@ -1,0 +1,15 @@
+.listing img{
+    width: 210px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.listing{
+    /* background-color: aqua; */
+    width: fit-content;
+    padding: 0px 5px 20px 5px;
+}
+
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
